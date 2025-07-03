@@ -98,15 +98,20 @@ const App: React.FC = () => {
             <div className="md:w-1/2">
               <div className="bg-gray-900/50 backdrop-blur-sm rounded-xl p-6 border border-gray-800 shadow-xl">
                 <h3 className="text-xl font-semibold mb-4 text-purple-400">
-                  Expertise
+                  Technical skills
                 </h3>
                 <div className="flex flex-wrap gap-3">
                   {[
                     "Generative AI",
+                    "n8n",
+                    "ML",
+                    "DL",
+                    "Large language Model",
+                    "OOPS",
+                    "OpenCv",
                     "LangChain",
                     "Agentic RAG",
                     "CrewAI",
-                    "n8n",
                     "Langfuse Evaluation",
                   ].map((skill, index) => (
                     <span
