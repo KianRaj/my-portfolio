@@ -91,8 +91,8 @@ const App: React.FC = () => {
               <p className="text-gray-300 mb-6 leading-relaxed">
                 As a Research Assistant at MIDAS Lab, I'm working on Real-time
                 Accident Detection and Prediction using Depth Estimation as my
-                thesis work. I also serve as a Teaching Assistant for DSA and
-                Introduction to Programming in Python courses.
+                thesis work. I also serve as a UIUC+ Summer Research Intern under
+                Darko Marinov,we are working with our team remotely to genearte equivalent mutant from LLM.
               </p>
             </div>
             <div className="md:w-1/2">
